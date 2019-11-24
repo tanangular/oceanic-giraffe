@@ -55,9 +55,9 @@ sections:
   templates:
   - elements
 upload_dir: static/images
-public_path: "/images"
+public_path: https://oceanic-giraffe-ad299.netlify.com/.netlify/large-media
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
