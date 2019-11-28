@@ -52,12 +52,12 @@ fields:
   config:
     required: true
 pages:
+- content/posts/magna.md
 - content/posts/veroeros.md
 - content/posts/ultricies.md
 - content/posts/tempus.md
 - content/posts/pretium.md
 - content/posts/nullam.md
-- content/posts/magna.md
 - content/posts/lorem.md
 - content/posts/ipsum.md
 - content/posts/feugiat.md
